@@ -121,30 +121,6 @@ void mergeSortIterative(vector<Record> &arr, long long &compCount) {
 
 ---
 
-## 📊 Graphs
-
-### 1. Time Comparison
-![Time Comparison](output/graphs/merge_time_comparison.png)
-> Kedua garis hampir overlap - performa virtually identical
-
-### 2. Overhead Analysis  
-![Overhead Analysis](output/graphs/merge_overhead_analysis.png)
-> Amortization effect: overhead menurun pada larger datasets
-
-### 3. Comparison Count
-![Comparison Count](output/graphs/merge_comparisons_count.png)
-> Both implementations follow O(n log n) curve
-
-### 4. Head-to-Head Comparison
-![Final Comparison](output/graphs/merge_final_comparison.png)
-> Visual comparison untuk full dataset (n=1289)
-
-### 5. Growth Pattern Verification
-![Growth Pattern](output/graphs/merge_growth_pattern.png)
-> Log-log plot confirming O(n log n) complexity
-
----
-
 ## 📁 Project Structure
 
 ```
