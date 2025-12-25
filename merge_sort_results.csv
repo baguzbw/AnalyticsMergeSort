@@ -1,0 +1,9 @@
+N,Recursive_ms,Iterative_ms,Recursive_comparisons,Iterative_comparisons,Winner,Overhead_Percent
+1,0.0003,0.0001,0,0,Iterative,0
+10,0.0121,0.0105,19,21,Iterative,15.2381
+50,0.0853,0.0734,157,166,Iterative,16.2125
+100,0.1823,0.1835,360,377,Recursive,-0.653951
+250,0.5016,0.4783,1022,1025,Iterative,4.87142
+500,1.1627,1.085,2289,2293,Iterative,7.16129
+1000,2.3166,2.2259,5084,5093,Iterative,4.07476
+1289,3.1358,3.0928,7025,7485,Iterative,1.39033
