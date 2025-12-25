@@ -1,4 +1,4 @@
-# Analisis empiris perbandingan performa implementasi **Recursive** vs **Iterative** dari algoritma Merge Sort menggunakan dataset real epidemiologi dari RSUD Sukoharjo (1,289 records).
+# Analisis perbandingan performa implementasi **Recursive** vs **Iterative** dari algoritma Merge Sort menggunakan dataset  dari RSUD Sukoharjo (1,289 records).
 ---
 
 ## 🎯 Overview
